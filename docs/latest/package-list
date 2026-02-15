@@ -93,6 +93,7 @@ $dokka.location:com.quarkdown.stdlib//lowercase/#kotlin.String/PointingToDeclara
 $dokka.location:com.quarkdown.stdlib//marker/#com.quarkdown.core.ast.InlineMarkdownContent/PointingToDeclaration/quarkdown-stdlib/com.quarkdown.stdlib.module.Document/marker.html
 $dokka.location:com.quarkdown.stdlib//mermaid/#kotlin.String?#kotlin.String?#com.quarkdown.core.function.value.data.EvaluableString/PointingToDeclaration/quarkdown-stdlib/com.quarkdown.stdlib.module.Mermaid/mermaid.html
 $dokka.location:com.quarkdown.stdlib//multiply/#kotlin.Number#kotlin.Number/PointingToDeclaration/quarkdown-stdlib/com.quarkdown.stdlib.module.Math/multiply.html
+$dokka.location:com.quarkdown.stdlib//navigationContainer/#com.quarkdown.core.ast.quarkdown.block.NavigationContainer.Role?#com.quarkdown.core.ast.MarkdownContent/PointingToDeclaration/quarkdown-stdlib/com.quarkdown.stdlib.module.Document/navigation.html
 $dokka.location:com.quarkdown.stdlib//negate/#kotlin.Number/PointingToDeclaration/quarkdown-stdlib/com.quarkdown.stdlib.module.Math/negate.html
 $dokka.location:com.quarkdown.stdlib//node/#/PointingToDeclaration/quarkdown-stdlib/com.quarkdown.stdlib.module.Flow/node.html
 $dokka.location:com.quarkdown.stdlib//none/#/PointingToDeclaration/quarkdown-stdlib/com.quarkdown.stdlib.module.Optionality/none.html
@@ -104,6 +105,7 @@ $dokka.location:com.quarkdown.stdlib//pageFormat/#com.quarkdown.core.context.Mut
 $dokka.location:com.quarkdown.stdlib//pageMarginContent/#com.quarkdown.core.document.layout.page.PageMarginPosition#com.quarkdown.core.ast.MarkdownContent/PointingToDeclaration/quarkdown-stdlib/com.quarkdown.stdlib.module.Document/pagemargin.html
 $dokka.location:com.quarkdown.stdlib//pair/#com.quarkdown.core.function.value.DynamicValue#com.quarkdown.core.function.value.DynamicValue/PointingToDeclaration/quarkdown-stdlib/com.quarkdown.stdlib.module.Collection/pair.html
 $dokka.location:com.quarkdown.stdlib//paragraphStyle/#com.quarkdown.core.context.MutableContext#kotlin.Number?#kotlin.Number?#kotlin.Number?#kotlin.Number?/PointingToDeclaration/quarkdown-stdlib/com.quarkdown.stdlib.module.Document/paragraphstyle.html
+$dokka.location:com.quarkdown.stdlib//pathToRoot/#com.quarkdown.core.context.Context#com.quarkdown.stdlib.internal.RootGranularity/PointingToDeclaration/quarkdown-stdlib/com.quarkdown.stdlib.module.Data/pathtoroot.html
 $dokka.location:com.quarkdown.stdlib//pi/#/PointingToDeclaration/quarkdown-stdlib/com.quarkdown.stdlib.module.Math/pi.html
 $dokka.location:com.quarkdown.stdlib//pow/#kotlin.Number#kotlin.Number/PointingToDeclaration/quarkdown-stdlib/com.quarkdown.stdlib.module.Math/pow.html
 $dokka.location:com.quarkdown.stdlib//range/#kotlin.Number?#kotlin.Number?/PointingToDeclaration/quarkdown-stdlib/com.quarkdown.stdlib.module.Math/range.html
@@ -119,7 +121,7 @@ $dokka.location:com.quarkdown.stdlib//sin/#kotlin.Number/PointingToDeclaration/
 $dokka.location:com.quarkdown.stdlib//speakerNote/#com.quarkdown.core.ast.MarkdownContent/PointingToDeclaration/quarkdown-stdlib/com.quarkdown.stdlib.module.Slides/speakernote.html
 $dokka.location:com.quarkdown.stdlib//sqrt/#kotlin.Number/PointingToDeclaration/quarkdown-stdlib/com.quarkdown.stdlib.module.Math/sqrt.html
 $dokka.location:com.quarkdown.stdlib//string/#kotlin.String/PointingToDeclaration/quarkdown-stdlib/com.quarkdown.stdlib.module.String/string.html
-$dokka.location:com.quarkdown.stdlib//subdocument/#kotlin.String#com.quarkdown.core.ast.InlineMarkdownContent?/PointingToDeclaration/quarkdown-stdlib/com.quarkdown.stdlib.module.Ecosystem/subdocument.html
+$dokka.location:com.quarkdown.stdlib//subdocument/#kotlin.String#com.quarkdown.core.ast.InlineMarkdownContent?#kotlin.String?/PointingToDeclaration/quarkdown-stdlib/com.quarkdown.stdlib.module.Ecosystem/subdocument.html
 $dokka.location:com.quarkdown.stdlib//subdocumentGraph/#/PointingToDeclaration/quarkdown-stdlib/com.quarkdown.stdlib.module.Mermaid/subdocumentgraph.html
 $dokka.location:com.quarkdown.stdlib//subtract/#kotlin.Number#kotlin.Number/PointingToDeclaration/quarkdown-stdlib/com.quarkdown.stdlib.module.Math/subtract.html
 $dokka.location:com.quarkdown.stdlib//sum/#kotlin.Number#kotlin.Number/PointingToDeclaration/quarkdown-stdlib/com.quarkdown.stdlib.module.Math/sum.html
@@ -268,6 +270,7 @@ com.quarkdown.rendering.html.extension
 com.quarkdown.rendering.html.node
 com.quarkdown.rendering.html.pdf
 com.quarkdown.rendering.html.post
+com.quarkdown.rendering.html.post.document
 com.quarkdown.rendering.html.post.resources
 com.quarkdown.rendering.html.search
 module:quarkdown-interaction
